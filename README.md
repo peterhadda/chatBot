@@ -1,5 +1,5 @@
-Simple Chatbot with Math Calculation
-This is a simple chatbot built using Microsoft's DialoGPT-medium model that can both chat conversationally and evaluate basic math expressions typed by the user.
+#Simple Chatbot with Math Calculation
+#This is a simple chatbot built using Microsoft's DialoGPT-medium model that can both chat conversationally and evaluate basic math expressions typed by the user.
 
 Features
 Conversational Chatbot: Powered by the DialoGPT-medium transformer model for casual and friendly conversations.
@@ -10,7 +10,7 @@ Easy to use: Just type your message and get a reply. Type math expressions to ge
 
 Exit anytime: Type exit or quit to end the conversation.
 
-Requirements
+#Requirements
 Python 3.7+
 
 transformers library
